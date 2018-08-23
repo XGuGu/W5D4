@@ -1,0 +1,10 @@
+/* PHASE 4: Footer */
+.footer_links {
+  display: flex;
+
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+}

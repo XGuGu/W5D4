@@ -1,0 +1,18 @@
+/* PHASE 3: Layout */
+.content {
+  min-height:200px;
+  width: 900px;
+  background: white;
+  margin: auto;
+}
+
+.content-sidebar {
+  min-height:inherit;
+  width:220px;
+  border-right: 1px solid lightgray;
+}
+
+.content-main {
+  min-height:inherit;
+  border: 1px solid lightgray;
+}
